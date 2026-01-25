@@ -274,6 +274,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   moveSpeed: 10
+  leftBoundPadding: 1
+  rightBoundPadding: 1
+  upBoundPadding: 7
+  downBoundPadding: 1
 --- !u!1001 &3638202041247871321
 PrefabInstance:
   m_ObjectHideFlags: 0
